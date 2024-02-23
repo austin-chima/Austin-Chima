@@ -1,0 +1,63 @@
+
+   body {
+    background-image: url(background.jpg);
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      max-width: 980px;
+      max-height: 1024px; /* Set page width */
+      margin: 0 auto; /* Center content */
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .product-image {
+      width: 80%;
+      max-width: 400px;
+      height: auto;
+      margin-bottom: 20px;
+      text-align: left;
+    }
+
+    .larger-image {
+      text-align: center;
+    }
+    .product-title {
+      font-size: 24px;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    .product-features {
+      margin-bottom: 20px;
+    }
+    .similar-products {
+      margin-bottom: 20px;
+    }
+    .banner {
+      text-align: center;
+      padding: 5px;
+      background-color: #f0f0f0;
+      margin-bottom: 20px;
+    }
+    .banner img {
+      max-width: 100%;
+      height: auto;
+    }
+    .banner-title {
+      font-size: 20px;
+      margin-top: 10px;
+    }
+    .hotspot-map {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .hotspot-map img {
+      width: 860px;
+      height: 700px;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 20px;
+    }
